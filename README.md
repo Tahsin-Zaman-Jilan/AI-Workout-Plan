@@ -1,4 +1,4 @@
-# AI Workout Wizard
+
 
 # AI Workout Planner
 
