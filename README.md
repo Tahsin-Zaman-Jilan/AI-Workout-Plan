@@ -1,15 +1,44 @@
 # AI Workout Wizard
 
+# AI Workout Planner
+
 <p align="center">
   <img src="public/demo.png" />
 </p>
 
+
+The AI Workout Planner is a web application that uses artificial intelligence to generate personalized weekly workout plans for users. It leverages the power of the OpenAI GPT model and Google's PaLM API to create customized fitness routines based on user preferences and goals.
+
+## Features
+
+- **Personalized Workouts**: The AI Workout Planner takes into account your fitness level, goals, available equipment, and schedule to create a tailored weekly workout plan.
+
+- **AI-Powered Recommendations**: Utilizing the OpenAI GPT model and Google's PaLM API, the app generates exercise routines that adapt to your progress and preferences.
+
+- **Easy-to-Use Interface**: The user-friendly interface makes it simple to input your workout preferences and view your generated workout plan.
+
+- **Progress Tracking**: Keep track of your fitness journey by logging your completed workouts and monitoring your progress over time.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your system
+- OpenAI GPT API key (sign up for access on the OpenAI website)
+- Google PaLM API key (obtain it from the Google Cloud Console)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/ai-workout-planner.git
+
+
+
 A project to generate your weekly workout plan with either OpenAI GPT model or Google PaLM API. 
 
-## Pre-requisites to run this project
 
-1. OpenAI API Key
-2. Google PaLM API Key
 
 ## Steps to run this project
 
